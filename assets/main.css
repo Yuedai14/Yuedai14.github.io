@@ -9446,6 +9446,7 @@ header.masthead {
   background-attachment: scroll;
   position: relative;
   background-size: cover;
+  height: 300px;
 }
 header.masthead .overlay {
   position: absolute;
